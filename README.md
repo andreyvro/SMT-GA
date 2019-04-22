@@ -1,10 +1,6 @@
-# SMT-GA1
-Linguagens envolvidas:
-
-Core - C++ no CodeBlocks.
-
-GUI - C++ no QTCreator.
-
-Sistema Operacional utilizado:
-
-Linux Mint.
+# SMT-GA
+Tecnologias:
+*Core - C++ com OpenMP (CodeBlocks)
+*GUI - C++ (QTCreator)
+*Tst - Python com numpy e matplotlib (Jupyter notebook)
+*SO - Linux Manjaro
