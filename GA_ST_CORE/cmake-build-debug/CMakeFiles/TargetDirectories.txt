@@ -1,0 +1,3 @@
+/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/CMakeFiles/GA_ST_CORE.dir

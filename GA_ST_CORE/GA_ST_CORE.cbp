@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GA_ST_CORE" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../GA_ST_GUI/GA_SMT_CORE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters='&quot;grafos/problemas/estein80.3&quot; 50 90 0 400 5.872480074 &quot;saida/saida.txt&quot;' />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-fopenmp" />
+				</Compiler>
+				<Linker>
+					<Add option="-O3" />
+					<Add library="gomp" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GA_SMT_CORE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters='&quot;grafos/problemas/6.txt&quot; 40 100 100 1 &quot;ams.txt&quot;' />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O3" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Aux.cpp" />
+		<Unit filename="Aux.h" />
+		<Unit filename="GA.cpp" />
+		<Unit filename="GA.h" />
+		<Unit filename="Grafo.cpp" />
+		<Unit filename="Grafo.h" />
+		<Unit filename="Individuo.cpp" />
+		<Unit filename="Individuo.h" />
+		<Unit filename="Populacao.cpp" />
+		<Unit filename="Populacao.h" />
+		<Unit filename="Vertice.cpp" />
+		<Unit filename="Vertice.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

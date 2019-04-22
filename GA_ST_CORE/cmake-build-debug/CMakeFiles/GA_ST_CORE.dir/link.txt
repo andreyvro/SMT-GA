@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GA_ST_CORE.dir/Aux.cpp.o CMakeFiles/GA_ST_CORE.dir/GA.cpp.o CMakeFiles/GA_ST_CORE.dir/GAAGM.cpp.o CMakeFiles/GA_ST_CORE.dir/Grafo.cpp.o CMakeFiles/GA_ST_CORE.dir/Individuo.cpp.o CMakeFiles/GA_ST_CORE.dir/main.cpp.o CMakeFiles/GA_ST_CORE.dir/Populacao.cpp.o CMakeFiles/GA_ST_CORE.dir/Vertice.cpp.o  -o GA_ST_CORE 

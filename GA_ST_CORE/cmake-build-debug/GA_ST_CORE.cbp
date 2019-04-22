@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GA_ST_CORE"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GA_ST_CORE">
+				<Option output="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/GA_ST_CORE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 GA_ST_CORE"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GA_ST_CORE/fast">
+				<Option output="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/GA_ST_CORE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 GA_ST_CORE/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrey/arvore_steiner_codigos/GA_ST_CORE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Aux.cpp">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Aux.h">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/GA.cpp">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/GA.h">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/GAAGM.cpp">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/GAAGM.h">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Grafo.cpp">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Grafo.h">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Individuo.cpp">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Individuo.h">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Populacao.cpp">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Populacao.h">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Vertice.cpp">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Vertice.h">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/main.cpp">
+			<Option target="GA_ST_CORE"/>
+		</Unit>
+		<Unit filename="/home/andrey/arvore_steiner_codigos/GA_ST_CORE/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
