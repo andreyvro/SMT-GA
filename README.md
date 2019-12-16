@@ -1,6 +1,6 @@
 # Hybrid Greedy Genetic Algorithm for the Euclidean Steiner Tree Problem
 
 ## Technologies:
-* CORE - C++ com OpenMP (CodeBlocks)
+* CORE - C++ with OpenMP (CodeBlocks)
 * GUI - C++ (QTCreator)
-* TST - Python com numpy e matplotlib (Jupyter notebook)
+* TST - Python with numpy and matplotlib (Jupyter notebook)
